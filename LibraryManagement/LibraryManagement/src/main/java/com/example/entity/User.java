@@ -8,10 +8,7 @@ import lombok.Setter;
 
 
 @Data
-@Getter
-@Setter
 @NoArgsConstructor
-@AllArgsConstructor
 
 
 public class User {
@@ -37,3 +34,4 @@ public class User {
                 '}';
     }
 }
+
